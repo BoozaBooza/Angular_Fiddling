@@ -1,6 +1,6 @@
 # Angular_Fiddling
 
-Angular Beginner Projects for Getting Started.
+Angular Absolute Beginner Projects.
 Using stackblitz.com as online IDE.
 
 Importing project from github: https://stackblitz.com/github/{GH_USERNAME}/{REPO_NAME}/tree/{TAG|BRANCH|COMMIT}

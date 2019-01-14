@@ -12,5 +12,17 @@ export const Heroes : Hero[] = [
 {
   id : 3,
   name : "Three"
+},
+{
+  id : 4,
+  name : "Four"
+},
+{
+  id : 5,
+  name : "Five"
+},
+{
+  id : 6,
+  name : "Six"
 }
 ];
